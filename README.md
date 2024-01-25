@@ -3,6 +3,7 @@
 # What I've worked with:
 
 * JavaScript
+* React
 * Express
 * Sequelize
 * postgreSQL
