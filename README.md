@@ -1,14 +1,30 @@
-### Hi there 👋
+### Hi there, I'm Donald! 👋
 
-## I'm currently working on:
+# What I've worked with:
 
-# Mountr
+* JavaScript
+* Express
+* Sequelize
+* postgreSQL
+* Python
+* Flask
+* SQLAlchemy
+* Alembic
+* HTML
+* CSS
+* Render
+* Docker
+
+
+# I'm currently working on:
+
+## Mountr
 
 A full stack application for sharing images of your World of Warcraft mount collection, tracking wanted mounts, and connecting with others.
 
 ## Next on the learning stack?
 
-# Django and MongoDB
+Django and MongoDB
 
 <!--
 **docoess/docoess** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
