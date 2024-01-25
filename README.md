@@ -15,16 +15,17 @@
 * Render
 * Docker
 
+# What's next on my learning stack?
 
-# I'm currently working on:
+Django and MongoDB
+
+# What I'm currently working on:
 
 ## Mountr
 
 A full stack application for sharing images of your World of Warcraft mount collection, tracking wanted mounts, and connecting with others.
 
-## Next on the learning stack?
 
-Django and MongoDB
 
 <!--
 **docoess/docoess** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
