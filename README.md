@@ -22,10 +22,9 @@ Django and MongoDB
 
 # What I'm currently working on:
 
-## Mountr
+## WebRTC and Socket.IO
 
-A full stack application for sharing images of your World of Warcraft mount collection, tracking wanted mounts, and connecting with others.
-
+Currently learning about and building my own version of a video chat site.
 
 
 <!--
