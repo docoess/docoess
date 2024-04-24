@@ -1,4 +1,4 @@
-### Hi there, I'm Donald! 👋
+### Hi there, I'm Donald! 👋🧔
 
 # What I've worked with:
 
@@ -38,9 +38,13 @@
 
 # What I'm currently working on:
 
-## Mountr
+## Mountr 🐎
 
-My World-of-Warcraft-themed light social media platform. Specifically aimed toward mount collectors. Working on getting full OAuth added to allow importing of mount collections directly from battle.net
+My World-of-Warcraft-themed light social media platform. Specifically aimed toward mount collectors.
+
+✅ DONE! ~~Working on getting full OAuth added to allow importing of mount collections directly from battle.net~~ 
+
+📝 Now working on styling / UI overhaul.
 
 ## WebRTC and Socket.IO
 
@@ -48,11 +52,11 @@ Currently learning about and building my own version of a video chat site.
 
 # When I'm not coding:
 
-## Dogs
+## Dogs 🐶 🐾
 
 I love spending time with my dog. She's getting up there in years, but still has a lot of energy!
 
-## Gaming
+## Gaming 🎮 👾
 
 I'm an avid gamer. I like a lot of different types of games, but some favorite genres of mine are RPGs and Rhythm games. 
 
