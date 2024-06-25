@@ -44,7 +44,11 @@ My World-of-Warcraft-themed light social media platform. Specifically aimed towa
 
 ✅ DONE! ~~Working on getting full OAuth added to allow importing of mount collections directly from battle.net~~ 
 
-📝 Now working on styling / UI overhaul.
+✅ ~~Now working on styling / UI overhaul.~~
+
+✅ ~~Add search functionality to main feed.~~
+
+📝 QoL improvements up next. A back button here, and a styling tweak there, etc.
 
 ## WebRTC and Socket.IO
 
