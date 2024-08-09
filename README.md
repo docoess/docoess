@@ -56,10 +56,6 @@ Currently learning about and building my own version of a video chat site.
 
 # When I'm not coding:
 
-## Dogs 🐶 🐾
-
-I love spending time with my dog. She's getting up there in years, but still has a lot of energy!
-
 ## Gaming 🎮 👾
 
 I'm an avid gamer. I like a lot of different types of games, but some favorite genres of mine are RPGs and Rhythm games. 
